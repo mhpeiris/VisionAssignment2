@@ -20,4 +20,6 @@ mb_estimate = A\z
 
 %% 1c)
 
-%% 2-1)
+%% 2a)
+clear D K homography_dist;
+mosiac();
